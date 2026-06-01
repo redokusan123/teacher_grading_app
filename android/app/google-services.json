@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1063419008348",
+    "firebase_url": "https://teacher-task-app-default-rtdb.firebaseio.com",
+    "project_id": "teacher-task-app",
+    "storage_bucket": "teacher-task-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063419008348:android:41d2bd09a8208d531d5d99",
+        "android_client_info": {
+          "package_name": "com.example.teacher_grading_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcBsWjOYWPJ9BjLo15WvDa8Eoc0fR76eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
